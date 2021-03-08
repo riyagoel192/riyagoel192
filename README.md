@@ -18,6 +18,7 @@
 
 - 📄 My Resume: [https://drive.google.com/file/d/1N7RqTOV0n9aymUZbnv8Z0977ydyljHaF/view?usp=sharing](https://drive.google.com/file/d/1N7RqTOV0n9aymUZbnv8Z0977ydyljHaF/view?usp=sharing)
 
+<img align="right" width="300" src="https://user-images.githubusercontent.com/55539590/110318829-0413e700-8034-11eb-92ff-99ab8bc700a4.gif"></img>
 <h3 align="left">My Experience</h3>
 <ul>
   <li>Coding Instructor @ Whitehat Junior</li>
